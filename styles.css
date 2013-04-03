@@ -1,0 +1,31 @@
+body {
+    font-family: 'Share Tech Mono', sans-serif;
+    background-color: #FF7B48;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+#right_column {
+    float: left; 
+    margin-top: 125px;
+    margin-left: 5%;
+}
+
+#livien_pic {
+    padding-bottom: 30px;
+    border-bottom: 20px dotted #00EBBC; 
+}
+
+
+h4 {
+    font-size: 11px;
+    text-transform: uppercase;
+}
+#bio {
+    margin-top: 125px;
+    float: left;
+    border: black solid 10px; 
+    background-color: white;
+    padding: 25px; 
+}
+
